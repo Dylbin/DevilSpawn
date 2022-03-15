@@ -15,7 +15,7 @@ DevilSpawn is a post exploitation multiplexor daemon which is an surveillance to
  - Linux support
  - Tab completion
  - Improved over all structure and efficiency of session handling
- - Native iOS python support for 64 bit devices
+ - Supports both Procursus and Elucubratus bootstraps
 
 
 ## Getting Started
