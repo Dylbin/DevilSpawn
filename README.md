@@ -1,4 +1,4 @@
-# [DevilSpawn]
+# DevilSpawn
 
 
 
